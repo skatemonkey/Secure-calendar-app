@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApyYiWPk9lku40+7Dvw17PgAAAAACAAAAAAAQZgAAAAEAACAAAABihCKdow33GmelJXASdbO2puCYzCGoOTbLvHEueKRqhgAAAAAOgAAAAAIAACAAAADbpRRPU8EuiyVJGWILkQST4WD/QVvSjnb3bTz1S2Avx4AAAAATrN/CrK9pqKb0zxK2sVS+QZ7zkysIidWSBKLmcOPsImSTrGsXnpYWplFDXyzblbOJpe72CjceEEguJjGqeBDtyu/KeLISffD0Eo9Ak/PeJ9m53/TAa9/lwjA68/eJ288QEqeIX+qHR/1dGdie/hLcWEa7P8h1xePQo1mM/O2e5EAAAAD5YwIc6YzaKchEMstZA7kwNmaHuAykmwUQYE95hvQ6uXU7tk7QNkPHRTc1ZZ2jZwQ6mZkdEsTWcPX7EYJyKgAh</EncryptedPassword>
+    <History>True|2021-11-22T06:42:55.0698636Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="DotNetCoreCalendar.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:dotnetcorecalendardbserver.database.windows.net,1433%3bInitial Catalog=DotNetCoreCalendar_db%3bUser Id=miku%40dotnetcorecalendardbserver%3bPassword=Zkw%25%40^F8%25Yk%24#GCsk3J%25x</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

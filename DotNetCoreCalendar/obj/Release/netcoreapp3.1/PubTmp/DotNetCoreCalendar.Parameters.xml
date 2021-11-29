@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="CoreCalendar20211122143127" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Desktop\\Learn\ &amp;\ project\\calendar_role\\DotNetCoreCalendar\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="DotNetCoreCalendar.Data.ApplicationDbContext" description="" value="Data Source=tcp:dotnetcorecalendardbserver.database.windows.net,1433;Initial Catalog=DotNetCoreCalendar_db;User Id=miku@dotnetcorecalendardbserver;Password=Zkw%@^F8%Yk$#GCsk3J%x" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Desktop\\Learn\ &amp;\ project\\calendar_role\\DotNetCoreCalendar\\obj\\Release\\netcoreapp3\.1\\PubTmp\\EFSQLScripts\\DotNetCoreCalendar\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

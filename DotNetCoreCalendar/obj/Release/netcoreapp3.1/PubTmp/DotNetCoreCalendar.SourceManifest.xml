@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Desktop\Learn &amp; project\calendar_role\DotNetCoreCalendar\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Desktop\Learn &amp; project\calendar_role\DotNetCoreCalendar\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\DotNetCoreCalendar.Data.ApplicationDbContext.sql" />
+</sitemanifest>
